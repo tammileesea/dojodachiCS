@@ -28,3 +28,5 @@
 /Users/tammilee/Desktop/codingDojo/csharp/MvcII/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.dll
 /Users/tammilee/Desktop/codingDojo/csharp/MvcII/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.pdb
 /Users/tammilee/Desktop/codingDojo/csharp/MvcII/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csproj.CopyComplete
+/Users/tammilee/Desktop/codingDojo/csharp/MvcII/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/ButtonPartial.g.cshtml.cs
+/Users/tammilee/Desktop/codingDojo/csharp/MvcII/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/WinLosePartial.g.cshtml.cs
